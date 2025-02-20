@@ -1,3 +1,4 @@
 # demo
-First repository 
-auther- rutik
+
+First repository
+auther- (rutik)
